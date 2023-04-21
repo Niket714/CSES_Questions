@@ -1,0 +1,5 @@
+*.exe
+.cph
+.vscode
+Apple_Division.cpp
+Labyrinth.cpp
